@@ -1,0 +1,15 @@
+#User files 
+*.suo
+*.user
+*.sln.docstates
+
+#Build results
+[Dd]ebag/
+[Rr]elease/
+[Oo]bj/
+
+#Source Control
+*.orig
+
+# Visual Studio temp
+.vs/
